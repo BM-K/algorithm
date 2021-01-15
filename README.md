@@ -1,2 +1,4 @@
-# algorithm
-algorithm
+# Algorithm
+
+Practical Problems <br>
+- Greedy
