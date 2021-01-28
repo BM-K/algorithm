@@ -9,3 +9,5 @@ Practical Problems <br>
   - 5-2
 - Sort
   - 6-1, 6-2, 6-3
+- Binary Search
+  - 7-1, 7-2, 7-3
