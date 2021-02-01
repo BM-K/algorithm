@@ -11,3 +11,5 @@ Practical Problems <br>
   - 6-1, 6-2, 6-3
 - Binary Search
   - 7-1, 7-2, 7-3
+- Dynamic Programming
+  - 8-1, 8-2
