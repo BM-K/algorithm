@@ -14,4 +14,4 @@ Practical Problems <br>
 - Dynamic Programming
   - 8-1, 8-2, 8-3, 8-4
 - Shortest Path
-  - 9-1
+  - 9-1, 9-2
