@@ -15,3 +15,7 @@ Practical Problems <br>
   - 8-1, 8-2, 8-3, 8-4
 - Shortest Path
   - 9-1, 9-2
+
+Codility <br>
+- Lesson 1
+  - BinaryGap
