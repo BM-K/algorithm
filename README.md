@@ -18,4 +18,7 @@ Practical Problems <br>
 
 Codility <br>
 - Lesson 1
-  - BinaryGap
+  - BinaryGap (1-1)
+- Lesson 2
+  - CyclicRotation (2-1)
+  - OddOccurrencesInArray (2-2)
