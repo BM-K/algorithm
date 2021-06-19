@@ -23,7 +23,7 @@ Codility <br>
   - CyclicRotation (2-1)
   - OddOccurrencesInArray (2-2)
 - Lesson 3
-  - FrogJmp
-  - PermMissingElem
+  - FrogJmp (3-1)
+  - PermMissingElem (3-2)
 - Lesson 4
-  - FrogRiverOne
+  - FrogRiverOne (4-1)
