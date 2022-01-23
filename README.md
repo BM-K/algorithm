@@ -27,3 +27,14 @@ Codility <br>
   - PermMissingElem (3-2)
 - Lesson 4
   - FrogRiverOne (4-1)
+
+Programmers <br>
+- 124나라의 숫자
+- 기능개발
+- 더 맵게
+- 멀쩡한 사각형
+- 메뉴 리뉴얼
+- 문자열 압축
+- 오픈 채팅방
+- 짝지어 제거하기
+- 타겟 
