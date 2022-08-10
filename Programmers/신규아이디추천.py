@@ -14,6 +14,7 @@ def solution(new_id):
             answer+=s
 
     # 3단계 https://tmdrl5779.tistory.com/124
+    # https://mizykk.tistory.com/116
     answer = re.sub('(([.])\\2{1,})', '.', answer)
 
     # 4단계
