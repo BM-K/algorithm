@@ -127,3 +127,4 @@ Programmers <br>
 - 디스크컨트롤러 -heapq
 - 2xn타일링 - 피보나치 점화식
 - 3xn타일링
+- 피로도
