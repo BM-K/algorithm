@@ -6,4 +6,4 @@ def solution(s):
         s = format(len(s), 'b')
         count_bin_change += 1
 
-    return [count_bin_change, count_del_zero]\
+    return [count_bin_change, count_del_zero]
