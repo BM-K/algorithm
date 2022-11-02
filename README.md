@@ -29,7 +29,7 @@ Codility <br>
   - FrogRiverOne (4-1)
 
 Hacker Rank <br>
-- empty
+- From Paragraphs to Sentences
 
 Programmers <br>
 - 124나라의 숫자
