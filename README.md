@@ -31,6 +31,7 @@ Codility <br>
 Hacker Rank <br>
 - From Paragraphs to Sentences
 - The Trigram
+- Compute the Cross Entropy
 
 Programmers <br>
 - 124나라의 숫자
