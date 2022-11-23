@@ -4,19 +4,20 @@
     result: 6
 """
 
-
 def solution(N):
+    answer = []
+    binary = str(format(N, 'b'))
 
-    binary_val = str(bin(N)[2:])
-    gap = [idx for idx, value in enumerate(binary_val) if value == '1']
+    target_index = [step for step, idx in enumerate(binary) if idx == str(1)]
 
-    max_gap = -1
-    for idx in range(len(gap)-1):
-        cur_gap = gap[idx+1] - gap[idx] - 1
-        if max_gap < cur_gap:
-            max_gap = cur_gap
-
-    if max_gap == -1:
+    if len(target_index) == 1:
         return 0
     else:
-        return max_gap
+        first_value = target_index[0]
+        for idx in range(1, len(target_index)):
+            answer.append(abs(first_value - target_index[idx]))
+            first_value = target_index[idx]
+        return max(answer) - 1
+
+n = 15
+print(solution(n))
