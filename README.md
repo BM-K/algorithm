@@ -27,7 +27,8 @@ Codility <br>
   - PermMissingElem (3-2)
 - Lesson 4
   - FrogRiverOne (4-1)
-
+  - PermCheck
+  
 Hacker Rank <br>
 - From Paragraphs to Sentences
 - The Trigram
