@@ -34,6 +34,7 @@ Hacker Rank <br>
 - The Trigram
 - Compute the Cross Entropy
 - Compute the Perplexity
+- Stitch the Torn Wiki
 
 Programmers <br>
 - 124나라의 숫자
