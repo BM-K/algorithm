@@ -25,6 +25,7 @@ Codility <br>
 - FrogRiverOne
 - PermCheck
 - CountDiv
+- MinAvgTwoSlice
 
 Hacker Rank <br>
 - From Paragraphs to Sentences
