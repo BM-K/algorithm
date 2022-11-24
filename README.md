@@ -17,18 +17,15 @@ Practical Problems <br>
   - 9-1, 9-2
 
 Codility <br>
-- Lesson 1
-  - BinaryGap (1-1)
-- Lesson 2
-  - CyclicRotation (2-1)
-  - OddOccurrencesInArray (2-2)
-- Lesson 3
-  - FrogJmp (3-1)
-  - PermMissingElem (3-2)
-- Lesson 4
-  - FrogRiverOne (4-1)
-  - PermCheck
-  
+- BinaryGap
+- CyclicRotation
+- OddOccurrencesInArray 
+- FrogJmp
+- PermMissingElemt
+- FrogRiverOne
+- PermCheck
+- CountDiv
+
 Hacker Rank <br>
 - From Paragraphs to Sentences
 - The Trigram
