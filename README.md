@@ -26,6 +26,7 @@ Codility <br>
 - PermCheck
 - CountDiv
 - MinAvgTwoSlice
+- Distinct
 
 Hacker Rank <br>
 - From Paragraphs to Sentences
