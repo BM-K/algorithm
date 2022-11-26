@@ -29,6 +29,7 @@ Codility <br>
 - Distinct
 - NumberOfDisclntersections
 - Brackets
+- Fish
 
 Hacker Rank <br>
 - From Paragraphs to Sentences
