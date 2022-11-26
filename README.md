@@ -30,6 +30,7 @@ Codility <br>
 - NumberOfDisclntersections
 - Brackets
 - Fish
+- Dominator
 
 Hacker Rank <br>
 - From Paragraphs to Sentences
