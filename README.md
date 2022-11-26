@@ -28,6 +28,7 @@ Codility <br>
 - MinAvgTwoSlice
 - Distinct
 - NumberOfDisclntersections
+- Brackets
 
 Hacker Rank <br>
 - From Paragraphs to Sentences
