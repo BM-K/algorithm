@@ -27,6 +27,7 @@ Codility <br>
 - CountDiv
 - MinAvgTwoSlice
 - Distinct
+- NumberOfDisclntersections
 
 Hacker Rank <br>
 - From Paragraphs to Sentences
