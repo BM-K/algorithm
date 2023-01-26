@@ -38,6 +38,7 @@ Hacker Rank <br>
 - Compute the Cross Entropy
 - Compute the Perplexity
 - Stitch the Torn Wiki
+- MaxProfit
 
 Programmers <br>
 - 124나라의 숫자
