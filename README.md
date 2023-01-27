@@ -31,6 +31,7 @@ Codility <br>
 - Brackets
 - Fish
 - Dominator
+- MaxSliceSum
 
 Hacker Rank <br>
 - From Paragraphs to Sentences
