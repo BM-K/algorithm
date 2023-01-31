@@ -40,6 +40,7 @@ Hacker Rank <br>
 - Compute the Perplexity
 - Stitch the Torn Wiki
 - MaxProfit
+- CountFactors
 
 Programmers <br>
 - 124나라의 숫자
